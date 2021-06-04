@@ -12,4 +12,4 @@ web: python3 manage.py runserver 0.0.0.0:8080
 2) add this line to the `pack build` command in 
 `.github/actions/build-server/action.yml`, underneath `--path $SERVER_PATH`
 
---env "GOOGLE_ENTRYPOINT=python3 manage.py runserver 0.0.0.0:8080" \
+`--env "GOOGLE_ENTRYPOINT=python3 manage.py runserver 0.0.0.0:8080" \`
