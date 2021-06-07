@@ -10,7 +10,7 @@ INSERT INTO employee (empname, email, occupation, salary)
 VALUES ('Beetle Goose', 'beetle@gander.com', 'Programmer', 100000);
 
 INSERT INTO employee (empname, email, occupation, salary)
-VALUES ('Webster', 'webster@gander.com', 'Sales Manager', 120000);
+VALUES ('Chris', 'chris@cdurand.net', 'Software Engineer', 1400000);
 
 INSERT INTO employee (empname, email, occupation, salary)
 VALUES ('Ryan Goosling', 'rgoosling@gander.com', 'HR', 80000);
